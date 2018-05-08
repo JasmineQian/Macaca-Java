@@ -1,0 +1,7 @@
+2018-03-26 15:45:51.557 INFO: 测试用例03---open URL-UpdateMemberInfo-
+2018-03-26 15:45:51.559 INFO: The test server URL is: https://yijiauat.acxiom.com.cn/ikeaMemberZoneV2/index.action?store=512&chanel=001
+2018-03-26 15:45:57.149 INFO: ----open update personal info Page---
+2018-03-26 15:45:59.503 INFO: there popups a window: 请填写如下任意两项 搜索条件查找信息.
+2018-03-26 15:45:59.868 INFO: 输入用户姓名: 钱金燕.
+2018-03-26 15:46:01.008 INFO: there popups a window: 请填写如下任意两项 搜索条件查找信息.
+2018-03-26 15:46:01.383 INFO: 输入手机号码: 18962873440.

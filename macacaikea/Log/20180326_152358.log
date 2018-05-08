@@ -1,0 +1,4 @@
+2018-03-26 15:23:58.698 INFO: 测试用例03---open URL-UpdateMemberInfo-
+2018-03-26 15:23:58.699 INFO: Start to select browser name from properties file
+2018-03-26 15:23:58.700 INFO: Your had select test browser type is: IE
+2018-03-26 15:23:58.700 INFO: The test server URL is: https://yijiauat.acxiom.com.cn/ikeaMemberZoneV2/index.action?store=512&chanel=001

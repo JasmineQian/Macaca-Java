@@ -1,0 +1,13 @@
+2018-03-26 15:49:47.564 INFO: 测试用例03---open URL-UpdateMemberInfo-
+2018-03-26 15:49:47.566 INFO: The test server URL is: https://yijiauat.acxiom.com.cn/ikeaMemberZoneV2/index.action?store=512&chanel=001
+2018-03-26 15:49:52.777 INFO: ----open update personal info Page---
+2018-03-26 15:49:55.027 INFO: there popups a window: 请填写如下任意两项 搜索条件查找信息.
+2018-03-26 15:49:55.429 INFO: 输入用户姓名: 钱金燕.
+2018-03-26 15:49:56.550 INFO: there popups a window: 请填写如下任意两项 搜索条件查找信息.
+2018-03-26 15:49:56.950 INFO: 输入手机号码: 18962873440.
+2018-03-26 15:49:59.041 INFO: =======
+2018-03-26 15:49:59.041 INFO: ==11=====
+2018-03-26 15:49:59.383 INFO: 输入validcode: 631029.
+2018-03-26 15:50:00.961 INFO: : 点击提交按钮.
+2018-03-26 15:50:01.103 INFO: there popups a window: 是否确认提交会员信息？.
+2018-03-26 15:50:10.120 INFO: : 更新会员信息成功.

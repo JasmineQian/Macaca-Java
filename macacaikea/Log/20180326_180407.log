@@ -1,0 +1,18 @@
+2018-03-26 18:04:07.404 INFO: 建立数据库链接 
+2018-03-26 18:04:07.566 INFO: 指定会员已经删除 
+2018-03-26 18:04:07.568 INFO: ==========删除数据库成功============
+2018-03-26 18:04:07.578 INFO: ==========no register============
+2018-03-26 18:04:07.733 INFO: 测试用例03---open URL-UpdateMemberInfo-
+2018-03-26 18:04:07.734 INFO: The test server URL is: https://yijiauat.acxiom.com.cn/ikeaMemberZoneV2/index.action?store=512&chanel=001
+2018-03-26 18:04:12.741 INFO: ----open update personal info Page---631029
+2018-03-26 18:04:14.967 INFO: there popups a window: 请填写如下任意两项 搜索条件查找信息.
+2018-03-26 18:04:15.365 INFO: 输入用户姓名: 钱金燕.
+2018-03-26 18:04:16.491 INFO: there popups a window: 请填写如下任意两项 搜索条件查找信息.
+2018-03-26 18:04:16.911 INFO: 输入手机号码: 18962873440.
+2018-03-26 18:04:19.084 INFO: 测试用例04--打印会员临时会员卡
+2018-03-26 18:04:19.084 INFO: The test server URL is: https://yijiauat.acxiom.com.cn/ikeaMemberZoneV2/index.action?store=512&chanel=001
+2018-03-26 18:04:23.772 INFO: ----open update personal info Page---631029
+2018-03-26 18:04:24.424 INFO: ----open update personal info Page---
+2018-03-26 18:04:25.524 INFO: 测试用例05--打印优惠券
+2018-03-26 18:04:25.524 INFO: The test server URL is: https://yijiauat.acxiom.com.cn/ikeaMemberZoneV2/index.action?store=512&chanel=001
+2018-03-26 18:05:28.122 INFO: ----open update personal info Page---631029
